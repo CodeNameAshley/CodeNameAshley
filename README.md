@@ -1,5 +1,9 @@
 ### Hi! I'm Ashley (CodeNameAshley) 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenameashley&layout=compact)](https://github.com/codenameashley/github-readme-stats)
+
+<br />
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/codenameashley?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodenameashley&screen_name=codenameashley)
 
 ## I'm an aspiring software developer / software engineer
@@ -16,10 +20,6 @@
 [<img align="left" alt="codenameashley | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codenameashley | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codenameashley | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenameashley&layout=compact)](https://github.com/codenameashley/github-readme-stats)
 
 <br />
 
