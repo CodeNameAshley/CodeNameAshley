@@ -1,12 +1,7 @@
 ### Hi! I'm Ashley (CodeNameAshley) 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenameashley&layout=compact)](https://github.com/codenameashley/github-readme-stats)
-
-<br />
+## I'm an aspiring software developer / software engineer
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/codenameashley?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodenameashley&screen_name=codenameashley)
-
-## I'm an aspiring software developer / software engineer
 
 - 🔭 I am currently learning to code with @ManchesterCodes!
 - 🌱 Tweeting my journey learning JavaScript, HTML & CSS. 
@@ -14,6 +9,10 @@
 - 📜 I'm hoping to study computer science in the future.
 - 🥅 2022 Goals: To be better at coding!
 - ⚡ About Me: I love to draw and play video games.
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenameashley&layout=compact)](https://github.com/codenameashley/github-readme-stats)
 
 ### Connect with me:
 
