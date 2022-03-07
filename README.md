@@ -1,5 +1,5 @@
-### Hi! I'm Ashley (CodeNameAshley) 👋
-## I'm an aspiring software developer / software engineer
+## Hi! I'm Ashley (CodeNameAshley) 👋
+### I'm an aspiring software developer / software engineer
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/codenameashley?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodenameashley&screen_name=codenameashley)
 
@@ -9,8 +9,6 @@
 - 📜 I'm hoping to study computer science in the future.
 - 🥅 2022 Goals: To be better at coding!
 - ⚡ About Me: I love to draw and play video games.
-
-<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenameashley&layout=compact)](https://github.com/codenameashley/github-readme-stats)
 
