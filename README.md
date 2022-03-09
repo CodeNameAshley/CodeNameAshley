@@ -5,7 +5,7 @@
 ### I'm an aspiring software developer / software engineer
 - 🔭 I am currently learning to code with @ManchesterCodes!
 - 🌱 Tweeting my journey learning JavaScript, HTML & CSS. 
-- 👯 I'd love to gain some knowledge in UX/UI Design and other programming languages.
+- 👯 I'd love to gain some knowledge in other programming languages, UI/UX design, as well as DevOps!
 - 📜 I'm hoping to study computer science in the future.
 - 🥅 2022 Goals: To be better at coding!
 - ⚡ About Me: I love to draw and play video games.
