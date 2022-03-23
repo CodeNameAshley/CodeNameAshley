@@ -3,9 +3,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codenameashley?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodenameashley&screen_name=codenameashley)
 
 ### I'm an aspiring software developer / software engineer
-- 🔭 I am currently learning to code with @ManchesterCodes!
-- 🌱 Tweeting my journey learning JavaScript, HTML & CSS. 
-- 👯 I'd love to gain some knowledge in other programming languages, UI/UX design, as well as DevOps!
+- 📖 I am currently learning to code with @ManchesterCodes!
+- 🌱 On a journey to learn JavaScript, HTML & CSS. 
+- 💡 I'd love to gain some knowledge in other programming languages, UI/UX design, as well as DevOps!
 - 📜 I'm hoping to study computer science in the future.
 - 🥅 2022 Goals: To be better at coding!
 - ⚡ About Me: I love to draw and play video games.
@@ -46,3 +46,9 @@
 [instagram]: https://instagram.com/codenameashley
 [linkedin]: https://linkedin.com/in/ashleyjn
 [webdevplaylist]: https://github.com/CodeNameAshley
+
+<br />
+
+# 💛
+
+Reminder that *you are great, you are enough, and your presence is valued.* If you are struggling with your mental health, please reach out to someone you love and consult a professional. [There are many resources for you to get help in a time of need.](https://www.nimh.nih.gov/health/find-help)
