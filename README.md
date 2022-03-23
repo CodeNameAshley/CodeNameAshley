@@ -75,8 +75,6 @@
 <br />
 <br />
 
----
-
 [website]: https://codenameashley.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codenameashley
