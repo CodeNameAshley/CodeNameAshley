@@ -56,8 +56,6 @@
 
 <img align="left" alt="Heroku" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/heroku/heroku-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Adobe Illustrator" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" />
-
 <img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="npm" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
