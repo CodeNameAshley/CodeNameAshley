@@ -1,25 +1,36 @@
 <img align="center" src="https://github.com/CodeNameAshley/CodeNameAshley/blob/master/Hey%2C%20I'm%20Ashley.png">
 
-<img src="https://github.com/CodeNameAshley/CodeNameAshley/blob/master/Header%20Banner.png">
+<img src="https://github.com/CodeNameAshley/CodeNameAshley/blob/master/headerBanner.png">
 
-- 📖 I am a SWE graduate from @ManchesterCodes
-- 🌱 On a journey to learn JavaScript, HTML & CSS. 
-- 💡 I'd love to gain some knowledge in other programming languages, UI/UX design, as well as DevOps!
-- 📜 I'm hoping to study computer science in the future.
-- 🥅 2022 Goals: To be better at coding!
-- ⚡ About Me: I love to draw and play video games.
+> Don't fret, little one, teeny-tiny fireworks are just as beautiful as the ones in the sky. You're spectacular!
+> 
+>   -- Bob, ACNH
+
+- 🌼I am a SWE graduate from @ManchesterCodes
+- 🌼 On a journey to learn JavaScript, HTML & CSS. 
+- 🌼 I'd love to gain some knowledge in other programming languages, UI/UX design, as well as DevOps!
+- 🌼 I'm hoping to study computer science in the future.
+- 🌼 2022 Goals: To be better at coding!
+- 🌼 About Me: I love to draw and play video games.
+
+<br /> 
+
+## 💜 My Most Used Languages: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenameashley&layout=compact)](https://github.com/codenameashley/github-readme-stats)
 
-### Connect with me:
+<br />
+
+## 💜 Connect with me:
 
 [<img align="left" alt="codenameashley | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codenameashley | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codenameashley | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
-### Languages and Tools:
+## 💜 Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" style="padding-right:10px;" />
 
