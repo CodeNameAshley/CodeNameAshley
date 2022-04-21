@@ -4,7 +4,7 @@
 
 > Don't fret, little one, teeny-tiny fireworks are just as beautiful as the ones in the sky. You're spectacular!
 > 
->   -- Bob, ACNH
+>   -- Bob, Animal Crossing: New Horizons
 
 - 🌼I am a SWE graduate from @ManchesterCodes
 - 🌼 On a journey to learn JavaScript, HTML & CSS. 
