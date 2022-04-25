@@ -1,5 +1,5 @@
 <img align="center" src="https://github.com/CodeNameAshley/CodeNameAshley/blob/master/orange%20ebb%2C%20flow%20and%20pop.gif">
-<img align="center" src="https://github.com/CodeNameAshley/CodeNameAshley/blob/master/Hey%2C%20I'm%20Ashley.png">
+<img align="center" src="https://github.com/CodeNameAshley/CodeNameAshley/blob/master/gif%20intro.gif">
 
 <br />
 
