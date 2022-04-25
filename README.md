@@ -1,4 +1,7 @@
 <img align="center" src="https://github.com/CodeNameAshley/CodeNameAshley/blob/master/orange%20ebb%2C%20flow%20and%20pop.gif">
+<img align="center" src="https://github.com/CodeNameAshley/CodeNameAshley/blob/master/Hey%2C%20I'm%20Ashley.png">
+
+<br />
 
 > Don't fret, little one, teeny-tiny fireworks are just as beautiful as the ones in the sky. You're spectacular!
 > 
@@ -12,6 +15,19 @@
 - 🌼 About Me: I love to draw and play video games.
 
 <br /> 
+
+## 💜 On-going Projects: 
+🌷**SFC**: An application for an NFT team that provides the team members and managers daily updates through blog posts and daily score sheets. The app also shows each manager and their team info. 
+- **SFC Front-end**: This project uses JavaScript and React framework to show data retrived from the API, Axios will be used to fetch this data. Styling will be done using SASS, with Bootsteap and Material UI.
+- **SFC Back-end**: This is the API for the front-end of SFC. This project uses JavaScript, Node.js, and Express.js to create routes, and controllers. SFC back-end uses TDD, with intergration test via mocha, chai, and supertest.
+
+🌷**Foodle**: A recipe based application that utilises the ingredients in your fridge or pantry to produce recipes using the searched ingredients.
+- **Foodle Front-end**: This is the front-end of foodle which uses JavaScript, React, SASS, CSS, and some Bootstrap. The search functionality uses Axios to retrieve recipes from a third-party API (spoonacular), the data is processed through different JS functions to output them in a user friendly manner. The project also uses Firebase authentication to allow users to log-in and potentially like recipes. Profile route is protected and is only accessible once user is authenticated and logged in. 
+- **Foodle Back-end**: This project utilises JavaScript, Node.js, Express.js to create an API for foodle. This API will enable all recipe data to be stored once a user likes a recipe, and can be retrieved and shown in a profile using useEffect and Axios request. This will allow the app to store data in a separate API, instead of getting the liked recipe data from spoonacular.
+
+🌷**Portfolio in React**: This will be my portfolio using React, SASS, and Material UI.
+
+<br />
 
 ## 💜 My Most Used Languages: 
 
