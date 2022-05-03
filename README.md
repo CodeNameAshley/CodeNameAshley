@@ -7,9 +7,9 @@
 > 
 >   -- Bob, Animal Crossing: New Horizons
 
-- 🌼I am a SWE graduate from @ManchesterCodes
-- 🌼 On a journey to learn JavaScript, HTML & CSS. 
-- 🌼 I'd love to gain some knowledge in other programming languages, UI/UX design, as well as DevOps!
+- 🌼 I am a SWE graduate from @ManchesterCodes.
+- 🌼 Junior SWE at SBG
+- 🌼 Currently learning Java, Scala, and Kafka. As well as how to use Kanban and Kubernetes.
 - 🌼 I'm hoping to study computer science in the future.
 - 🌼 2022 Goals: To be better at coding!
 - 🌼 About Me: I love to draw and play video games.
@@ -29,7 +29,7 @@
 
 <br />
 
-## 💜 3My Most Used Languages: 
+## 💜 My Most Used Languages: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenameashley&layout=compact)](https://github.com/codenameashley/github-readme-stats)
 
