@@ -7,10 +7,10 @@
 > 
 >   -- Bob, Animal Crossing: New Horizons
 
-- 🌼 I am a SWE graduate from @ManchesterCodes.
+- 🌼 I am a bootcamp graduate from @ManchesterCodes.
 - 🌼 Junior SWE at SBG
-- 🌼 Currently learning Java, Scala, and Kafka. As well as how to use Kanban and Kubernetes.
-- 🌼 I'm hoping to study computer science in the future.
+- 🌼 Currently learning Java, Scala, and Kafka. As well as how Jenkins and Kubernetes works.
+- 🌼 BSc Computing, IT & Software student.
 - 🌼 2022 Goals: To be better at coding!
 - 🌼 About Me: I love to draw and play video games.
 
