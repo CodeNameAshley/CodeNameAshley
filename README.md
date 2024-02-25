@@ -8,9 +8,9 @@
 >   -- Bob, Animal Crossing: New Horizons
 
 - 🌼 Bootcamp graduate from @ManchesterCodes.
-- 🌼 Junior SWE at SBG
+- 🌼 Software Engineer at SBG
 - 🌼 BSc Computing, IT & Software student.
-- 🌼 2023 Goals: To get better at coding!
+- 🌼 2024 Goals: Make a game!
 - 🌼 About Me: I love to draw and play video games.
 
 <br /> 
