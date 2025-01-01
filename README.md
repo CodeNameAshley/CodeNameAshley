@@ -7,11 +7,7 @@
 > 
 >   -- Bob, Animal Crossing: New Horizons
 
-- 🌼 Bootcamp graduate from @ManchesterCodes.
-- 🌼 Software Engineer at SBG
-- 🌼 BSc Computing, IT & Software student.
-- 🌼 2024 Goals: Make a game!
-- 🌼 About Me: I love to draw and play video games.
+- 🌼 About Me: I write shitty code when they let me, originally a law school graduate but career switched to being a dev, currently finishing a computer science degree.
 
 <br /> 
 
@@ -36,13 +32,6 @@
 
 <br />
 
-## 💜 Connect with me:
-
-[<img align="left" alt="codenameashley | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codenameashley | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codenameashley | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 <br />
 
 ## 💜 Languages and Tools:
