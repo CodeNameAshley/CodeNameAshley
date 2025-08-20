@@ -1,4 +1,3 @@
-<img align="center" src="https://github.com/CodeNameAshley/CodeNameAshley/blob/master/orange%20ebb%2C%20flow%20and%20pop.gif">
 <img align="center" src="https://github.com/CodeNameAshley/CodeNameAshley/blob/master/gif%20intro.gif">
 
 <br />
@@ -151,3 +150,5 @@ Hi, I’m Ashley!
 ![Ashley’s GitHub stats](https://github-readme-stats.vercel.app/api?username=codenameashley&show_icons=true&theme=buefy)
 
 </div>
+
+<img align="center" src="https://github.com/CodeNameAshley/CodeNameAshley/blob/master/orange%20ebb%2C%20flow%20and%20pop.gif">
