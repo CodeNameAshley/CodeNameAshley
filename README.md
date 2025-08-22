@@ -73,7 +73,7 @@ Hi, I’m Ashley!
 
 ---
 
-## 💜 Work Contributions:
+## 💜 Activity:
 <img align="center" src="https://github.com/CodeNameAshley/CodeNameAshley/blob/master/2025%20Contributions.png">
 <img align="center" src="https://github.com/CodeNameAshley/CodeNameAshley/blob/master/2024%20Contributions.png">
 <img align="center" src="https://github.com/CodeNameAshley/CodeNameAshley/blob/master/2023%20Contributions.png">
@@ -141,7 +141,7 @@ Hi, I’m Ashley!
 
 ---
 
-## 💜 My Most Used Languages: 
+## 💜 Stats: 
 
 <div align="center">
 
