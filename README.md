@@ -11,7 +11,7 @@
 Hi, I’m Ashley!  
 - I write code (sometimes messy, always with love 🌸).  
 - Originally a law school graduate ⚖️ → now a developer 💻.  
-- Currently finishing my Computer Science degree.  
+- Doing a second degree in Computer Science degree.  
 - Working in Business Banking at Barclays.  
 - Big fan of RuneScape, cosy games, and building projects that bring people together.  
 
@@ -199,9 +199,9 @@ Hi, I’m Ashley!
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenameashley&langs_count=6&hide=scss,css,html,cmake&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=codenameashley&langs_count=6&hide=scss,css,html,cmake&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
-![Ashley’s GitHub stats](https://github-readme-stats.vercel.app/api?username=codenameashley&show_icons=true&theme=buefy)
+![Ashley’s GitHub stats](https://github-stats-extended.vercel.app/api?username=codenameashley&show_icons=true&theme=buefy)
 
 </div>
 
