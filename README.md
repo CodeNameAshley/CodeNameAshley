@@ -11,7 +11,7 @@
 Hi, I’m Ashley!  
 - I write code (sometimes messy, always with love 🌸).  
 - Originally a law school graduate ⚖️ → now a developer 💻.  
-- Doing a second degree in Computer Science degree.  
+- Doing a second degree in Computer Science.  
 - Working in Business Banking at Barclays.  
 - Big fan of RuneScape, cosy games, and building projects that bring people together.  
 
