@@ -2,9 +2,6 @@
 
 <br />
 
-> Don't fret, little one, teeny-tiny fireworks are just as beautiful as the ones in the sky. You're spectacular!  
-> — Bob, *Animal Crossing: New Horizons*
-
 ---
 
 ## 🌼 About Me  
