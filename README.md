@@ -8,12 +8,15 @@
 ---
 
 ## 🌼 About Me  
-Hi, I’m Ashley!  
-- I write code (sometimes messy, always with love 🌸).  
-- Originally a law school graduate ⚖️ → now a developer 💻.  
-- Doing a second degree in Computer Science.  
-- Working in Business Banking at Barclays.  
-- Big fan of RuneScape, cosy games, and building projects that bring people together.  
+Hi, I’m Ashley! 😊
+
+I’m a software developer at Barclays, I love creating fun, useful projects and bringing ideas to life through code.
+
+I enjoy working with Java, TypeScript, JavaScript, Python, Kotlin and I’m always exploring new tools to keep growing. I’ve got experience with web development, APIs, and writing clean, thoughtful code.
+
+When I’m not coding, you’ll find me playing RuneScape, enjoying cosy games, or dreaming up my next project. 🌸
+
+🔗 Connect with me in LinkedIn: [CodeNameAshley](https://www.linkedin.com/in/codenameashley/)
 
 ---
 
@@ -85,8 +88,14 @@ Hi, I’m Ashley!
 </details>
 
 🌷 **Foodle** – A recipe discovery application that helps users cook with ingredients already in their fridge.  
+
+<details>
+<summary><strong>See details</strong></summary>
+  
 - **Frontend**: JavaScript, React, SASS, CSS, Bootstrap, and Firebase Auth. Used Axios to retrieve recipes from the Spoonacular API and present them through a clean interface.  
 - **Backend**: Node.js and Express.js. Stored liked recipes in a custom API for retrieval and profile display.  
+
+</details>
 
 ---
 
@@ -98,7 +107,6 @@ Hi, I’m Ashley!
 - Built a **mobile-first business loan website** that enables businesses to receive an instant lending decision based on their income and outgoings.  
 - Integrated **Companies House** data to automatically populate business information and reduce manual form entry.  
 - Developed the application using **TypeScript and Java**, with a focus on responsive design, accessible user journeys, and maintainable services.  
-- Continue to deliver enhancements and improvements across the Business Banking platform.  
 
 ### 🦋 Flutter UKI  
 
